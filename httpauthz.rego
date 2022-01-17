@@ -19,4 +19,4 @@ default allow = false
 
 allow {
     permission[input.user][i].actions[_] == input.action
-}	
+}
